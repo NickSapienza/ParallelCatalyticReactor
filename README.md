@@ -16,4 +16,4 @@ Please submit bugs or issues to <https://github.com/nicksapienza/CBC-CatalyticRe
 
 ## Licensing
 
-This project is licensed under the GNU GPL v3 License. See [LICENSE](https://github.com/nicksapienza/CBC-CatalyticReactor/blob/master/LICENSE) for more information.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/nicksapienza/CBC-CatalyticReactor/blob/master/LICENSE) for more information.
