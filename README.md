@@ -1,6 +1,6 @@
-# CBC-CatalyticReactor
+# ParallelCatalyticReactor
 
-LabVIEW project for CCDC CBC's three-channel parallel catalytic reactor.
+LabVIEW project for a three-channel parallel three-channel parallel catalytic reactor.
 
 ## Authors
 
