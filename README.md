@@ -6,14 +6,14 @@ LabVIEW project for CCDC CBC's three-channel parallel catalytic reactor.
 
 See [AUTHORS](https://github.com/nicksapienza/CBC-CatalyticReactor/blob/master/AUTHORS) for a list of contributors.
 
-##Contact
+## Contact
 
 Please direct any further questions to <sapienza@vt.edu>.
 
-##Issues
+## Issues
 
 Please submit bugs or issues to <https://github.com/nicksapienza/CBC-CatalyticReactor/issues>.
 
-##Licensing
+## Licensing
 
 This project is licensed under the GNU GPL v3 License. See [LICENSE](https://github.com/nicksapienza/CBC-CatalyticReactor/blob/master/LICENSE) for more information.
